@@ -18,6 +18,13 @@
    >此处选择注册类型为“个人”，需要输入个人的身份证号码，姓名，手机号等信息。
    确认信息完成注册。
    
-  ## 小程序配置
-  完成注册后，进入[微信公众平台](https://mp.weixin.qq.com)首页面，如下图所示：
-  ![首页面](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini01.png)
+  ## 小程序相关设置
+  1. 完成注册后，进入[微信公众平台](https://mp.weixin.qq.com)首页面，如下图所示：
+  ![首页面](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini03.png)
+  2. 点击右侧的“填写”按钮进行信息的填写，如下图所示：
+  ![信息填报](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini04.png)
+  >提交后，小程序进入“审核”状态，大概审核时间为几分钟，几分钟过后，重新刷新
+  3. 配置服务器域名。选择左侧列表中的“</>开发”，选择此模块中的“开发设置”，在页面中的“服务器域名”模块进行配置。
+  
+  
+  
