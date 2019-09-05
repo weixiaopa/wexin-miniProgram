@@ -24,7 +24,8 @@
   ![首页面](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini03.png)
   2. 点击右侧的“填写”按钮进行信息的填写，如下图所示：
   ![信息填报](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini04.png)
-  >提交后，小程序进入“审核”状态，大概审核时间为几分钟，几分钟过后，重新刷新
+  > * 此页面需要上传小程序启动logo图片，图片有一定要求，具体看上图。一年之内只有5次修改的机会，因此在注册前应该准备好logo图片。
+  > * 提交后，小程序进入“审核”状态，大概审核时间为几分钟，几分钟过后，重新刷新
   3. 配置服务器域名。选择左侧列表中的“</>开发”，选择此模块中的“开发设置”，在页面中的“服务器域名”模块进行配置。
   
   
