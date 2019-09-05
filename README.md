@@ -8,3 +8,4 @@
 ## step2:申请账号
   进入[小程序注册页](https://mp.weixin.qq.com/wxopen/waregister?action=step1)，开始一步一步完成账号注册。
   
+  
