@@ -16,6 +16,7 @@
   ##### step3: 填写主体信息
    点击激活链接后，继续下一步的注册流程。请选择主体类型选择，完善主体信息和管理员信息。
    >此处选择注册类型为“个人”，需要输入个人的身份证号码，姓名，手机号等信息。
+   ![首页面](https://github.com/weixiaopa/wexin-miniProgram/blob/master/imagees/mini02.png)
    确认信息完成注册。
    
   ## 小程序相关设置
